@@ -1,7 +1,7 @@
 
 # atlas-helm-chart
 
-This is a Kubernetes Helm Chart that Deploys the Apache Atlas Cluster on Azure Kubernetes Service. Atlas will use Solr for indexing and Cassandra as Backend Storage.
+This is a Kuberntes Helm Chart that Deploys the Apache Atlas Cluster on Azure Kubernetes Service. Atlas will use Solr for indexing and Cassandra as Backend Storage.
 
 # PreRequisites
 
